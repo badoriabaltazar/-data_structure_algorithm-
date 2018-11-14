@@ -9,11 +9,11 @@ public class boxer {
 		// TODO Auto-generated method stub
 		SingularlyLinkedList<String> boxers= new SingularlyLinkedList <String>();
 		
-		boxers.addFirst("Turija");
-		boxers.addFirst("Del Rosario");
-		boxers.addFirst("Fuego");
-		boxers.addFirst("Gonzal");
-		boxers.addFirst("Velaro");
+		boxers.addFirst("manny");
+		boxers.addFirst("pagara");
+		boxers.addFirst("bautista");
+		boxers.addFirst("delahoya");
+		boxers.addFirst("marquez");
 		
 		
 		
